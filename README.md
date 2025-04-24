@@ -18,7 +18,7 @@ The Excel file contains an interactive dashboard with:
 
 ## 📈 Dashboard Snapshot
 
-![Excel Dashboard](ss.png)
+![Excel Dashboard](screenshot.png)
 
 ---
 
